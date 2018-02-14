@@ -1,0 +1,7 @@
+C:\Users\Tibi\source\repos\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\Tibi\source\repos\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\Tibi\source\repos\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\Tibi\source\repos\Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\Tibi\source\repos\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\Tibi\source\repos\Examen\Examen\obj\Debug\Examen.pdb
+C:\Users\Tibi\source\repos\Examen\Examen\obj\Debug\Examen.csprojResolveAssemblyReference.cache
